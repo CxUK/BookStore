@@ -1,7 +1,7 @@
 /* 
 public class AdminBooks_jsp extends HttpJspBase {
 
-// tests sdfdsf
+//
 // x\\
 //
 //   Filename: Common.jsp
